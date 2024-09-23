@@ -1,6 +1,5 @@
 # **Fourier Accelerated U(1) Lattice Gauge Theory in Two Dimensions**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## **Overview**
 This repository contains a **Hybrid Monte Carlo (HMC) program** that computes the expectation value of Wilson loops for discretized U(1) gauge theory in two dimensions. The program utilizes **Fourier acceleration** to speed up convergence and explores its potential to combat **critical slowing down**, a significant issue in lattice gauge theory simulations.
