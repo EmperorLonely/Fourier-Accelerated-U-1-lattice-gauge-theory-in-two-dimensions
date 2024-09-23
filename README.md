@@ -17,3 +17,14 @@ Test the effectiveness of Fourier acceleration in U(1) lattice gauge theory simu
 - **Hybrid Monte Carlo Algorithm**: Implements the HMC algorithm to simulate U(1) gauge theory.
 - **Fourier Acceleration**: Introduces Fourier acceleration to mitigate critical slowing down by modifying the dynamics of the algorithm.
 - **Wilson Loops Computation**: The primary observable calculated to measure the effectiveness of the algorithm.
+
+- ## **Background and Theory**
+
+If you're unfamiliar with the concepts of **lattice gauge theory**, **Hybrid Monte Carlo (HMC)**, or **Fourier acceleration**, you can find a detailed explanation in the following project report:
+
+[📄 **Full Report on HMC and Fourier Acceleration**](https://drive.google.com/file/d/1TSl3n5FtMvDfum35ly6HxnjRsgCGJFML/view?usp=sharing)
+
+The report includes:
+- **Detailed descriptions** of the HMC algorithm and Fourier acceleration.
+- **Pseudocode** for the standard HMC algorithm.
+- **Discussion** on the numerical tests performed for U(1) lattice gauge theory.
